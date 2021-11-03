@@ -1,0 +1,6 @@
+{"lang": "sw", "sentence1": "So well mwa mwa", "sentence2": "Kumbe", "gold": "entailment", "file_idx": 219730}
+{"lang": "sw", "sentence1": "Bauerstein nilikuwa na fursa kama bado ya kupita kwenye ujumbe wa poirot kwa lawrence .", "sentence2": "Fursa hiyo bado na na ujumbe wa poirot wa mkono kwa lawrence .", "gold": "entailment", "file_idx": 4205}
+{"lang": "sw", "sentence1": "Kwa hiyo , kama walijadili awali , mameneja ni mbinu za vitendo kwa usahihi zaidi kupima thamani ya vidhibiti vya usalama na kupata data bora kwenye sababu za hatari .", "sentence2": "Mameneja don kuhusu sababu za hatari na thamani ya vidhibiti vya usalama .", "gold": "contradiction", "file_idx": 11698}
+{"lang": "sw", "sentence1": "Wa ' office. madume '", "sentence2": "Hiyo ni boring", "gold": "contradiction", "file_idx": 339191}
+{"lang": "sw", "sentence1": "But i ' m not a wachache but i ' m not really i love you but i ' m not really i love you but i ' m not but i ' m not a but i ' m not but i ' m not wazoefu ya kutosha nayo", "sentence2": "Mimea ni ngumu kwa", "gold": "neutral", "file_idx": 139937}
+{"lang": "sw", "sentence1": "Kabla ya conquests , aryans walikuwa katika wapiganaji watatu , mapadri , na commoners .", "sentence2": "Aryans mwaonaje kuwa wastaarabu .", "gold": "neutral", "file_idx": 191360}
